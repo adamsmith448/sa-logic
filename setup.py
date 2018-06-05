@@ -1,1 +1,1 @@
-python -m textblob.download_corpora
+textblob.download_corpora
