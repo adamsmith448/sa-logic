@@ -3,8 +3,6 @@ from flask import Flask, request, jsonify
 
 PORT_NUMBER = 8080
 
-TextBlob.download_corpora
-
 app = Flask(__name__)
 
 
